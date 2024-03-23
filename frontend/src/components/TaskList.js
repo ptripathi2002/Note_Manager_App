@@ -121,7 +121,7 @@ const TaskList = () => {
 
   return (
     <div>
-      <h2>Task Manager</h2>
+      <h2>Note Manager</h2>
       <TaskForm
         name={name}
         handleQuillChange={handleQuillChange}
