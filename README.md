@@ -8,6 +8,9 @@ Node.js, Express.Js, mongoose and MongoDB for the backend part.
 As mentioned in the assignment which was assigned to me, we needed to use a WYWSGI editor so for that I have used react-quill.
 
 
+In this Note-Manager, I have also added the functionality that on adding the note and clicking on add button the note will get downloaded in HTML form in that particular format only in which the user has written the note in the quill textbox.
+
+
 
 
 ## How you can run it in your system:-
