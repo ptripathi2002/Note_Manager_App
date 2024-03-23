@@ -25,3 +25,15 @@ This will let your backend part started.
 Then, move to the frontend folder and run the command in the terminal:- "npm start" 
 This will ley your frontend part started.
 
+
+## Screenshots
+![Screenshot (315)](https://github.com/ptripathi2002/Note_Manager_App/assets/90204816/637c9009-2247-4533-8e46-f8c3e123086d)
+
+
+![Screenshot (312)](https://github.com/ptripathi2002/Note_Manager_App/assets/90204816/83c16eaf-4bb7-422a-b9e6-3228051a1ebb)
+
+![Screenshot (313)](https://github.com/ptripathi2002/Note_Manager_App/assets/90204816/c4822567-ed40-4f58-af72-96eab3a900fe)
+
+![Screenshot (314)](https://github.com/ptripathi2002/Note_Manager_App/assets/90204816/80363ea0-5334-4247-9bc3-c42e931e331c)
+
+
