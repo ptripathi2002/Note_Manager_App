@@ -26,7 +26,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://taskmanager-frontend.onrender.com",
+      "https://advanced-note-manager-app.onrender.com",
     ],
   })
 );
